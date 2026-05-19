@@ -1,4 +1,4 @@
-const { addStudent, getAllStudents } = require("./filePromise1");
+const { addStudent, getAllStudents } = require("./filePromise2");
 
 // addStudent({ name: 'tehila', mark: 90 });
 // addStudent({ name: 'tamar', mark: 100 });
